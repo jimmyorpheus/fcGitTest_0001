@@ -15,7 +15,8 @@ function fcConcatStrings($paraStrA, $paraStrB) {
 
 }
 
-echo fcConcatStrings('tree','man');
+echo fcConcatStrings('tree','buman');
+
 
 
 
